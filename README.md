@@ -37,3 +37,7 @@ Linguagens & Tecnologias: `Python`, `JavaScript`, `Perl`\
 <br/>
 <br>
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/viniciusagostiniti/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+<a href="https://github.com/vaoagost">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaoagost&theme=dracula&show_icons=true" />
+</a>
