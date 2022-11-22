@@ -32,6 +32,8 @@
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/agostini.nil/"/></a>
 
+   [![Linkedin: Vinicius Agostini](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusagostiniti/)](https://www.linkedin.com/in/viniciusagostiniti/)
+   [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniagostini100@gmail.com/)](mailto:viniagostini100@gmail.com/)
 </p>
 
 ### Experiência de trabalho
