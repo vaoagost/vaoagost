@@ -31,7 +31,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEoj32XYFrM1A/company-logo_200_200/0/1659381868457?e=2147483647&v=beta&t=kvfD_r47SASt1BCsufjs9kLdmAoTtQ4q64BBPl9tCp4"/>](https://icarotech.com/)
 
-**Analista de Sistemas Júnior | Network Management** \
+**Analista de Sistemas | Network Management** \
 [**Icaro Tech**](https://icarotech.com/) • Full-time \
 Linguagens & Tecnologias: `Python`, `JavaScript`, `Perl`\
 <br/>
